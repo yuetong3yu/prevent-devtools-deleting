@@ -7,5 +7,5 @@ I think we could use **MutationObserver** to listening the target DOM(canvas or 
 ## Demo Useage
 
 ```bash
-yarn
+yarn && yarn dev
 ```
